@@ -1,12 +1,19 @@
 <template>
   <div class="container">
     <div>
-      <logo />
-      <h1 class="title">onukrock</h1>
+      <Logo />
+      <h1 class="title">On UK Rock</h1>
       <h2 class="subtitle">Digital Services for UK Climbers & Clubs</h2>
       <div class="links">
-        <a href="https://summit360.co.uk/" target="_blank" class="button--green">Sponsor</a>
-        <a href="https://github.com/onukrock" target="_blank" class="button--grey">GitHub</a>
+        <a href="https://summit360.co.uk/" target="_blank" class="button--green"
+          >Project Sponsor</a
+        >
+        <a
+          href="https://github.com/onukrock"
+          target="_blank"
+          class="button--grey"
+          >GitHub</a
+        >
       </div>
     </div>
   </div>
